@@ -24,20 +24,20 @@ Find your OS below and run the command to download the binary.
 
 **Mac (Apple Silicon / M1 / M2 / M3):**
 ```bash
-curl -L [https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-mac-arm64](https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-mac-arm64) -o cwhy
+curl -L https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-mac-arm64 -o cwhy
 chmod +x cwhy
 sudo mv cwhy /usr/local/bin/
 ```
 
 **Mac (Intel):**
 ```bash
-curl -L [https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-mac-intel](https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-mac-intel) -o cwhy 
+curl -L https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-mac-intel -o cwhy 
 chmod +x cwhy 
 sudo mv cwhy /usr/local/bin/
 ```
 **Linux:**
 ```bash
-curl -L [https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-linux-amd64](https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-linux-amd64) -o cwhy
+curl -L https://github.com/faalantir/cwhy/releases/download/v0.1.0/cwhy-linux-amd64 -o cwhy
 chmod +x cwhy
 sudo mv cwhy /usr/local/bin/
 ```
