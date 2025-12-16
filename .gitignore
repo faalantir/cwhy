@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+
+# User notes
+scratchpad.txt
+
+# Binaries and build artifacts
+dist/
+cwhy
+cwhy.exe
+
+.env

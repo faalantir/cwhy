@@ -1,0 +1,3 @@
+Error: Error creating S3 bucket: BucketAlreadyExists: The requested bucket name "prod-assets" is not available. The bucket namespace is shared by all users of the system. Please select a different name and try again.
+  on main.tf line 24, in resource "aws_s3_bucket" "b":
+  24: resource "aws_s3_bucket" "b" {
